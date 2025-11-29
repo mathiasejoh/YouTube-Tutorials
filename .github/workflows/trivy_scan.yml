@@ -1,4 +1,4 @@
-name: Trivy Security Scan for NGINX
+name: Trivy Security Scans for NGINX
 
 on:
   push:
